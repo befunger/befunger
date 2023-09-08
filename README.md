@@ -9,7 +9,7 @@ I'm a new graduate with a Bachelors in Engineering Physics, and a Masters in Com
 ![cplusplus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![labview](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
-![matlab](https://custom-icon-badges.demolab.com/badge/MATLAB-008080?style=for-the-badge&logo=matlabblackandwhite&logoColor=white)
+![matlab](https://custom-icon-badges.demolab.com/badge/MATLAB-fc4503?style=for-the-badge&logo=matlabblackandwhite&logoColor=white)
 ![latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 <!---
 - MATLAB
