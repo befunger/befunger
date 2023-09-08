@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @befunger
+### 👋 Hi, I’m Alex!
 - 👀 I’m interested in befunge.
 - 🌱 I’m currently learning befunge.
 - 💞️ I’m looking to collaborate on befunge.
