@@ -12,13 +12,22 @@ I'm a new graduate with a Bachelors in Engineering Physics, and a Masters in Com
 - MATLAB
 - LabVIEW
 - befunge98
+- LaTeX
+- HTML
+- CSS
 --->
 
 ### Tools I like to use
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <!---
 - VSCode
 - Git
+- Overleaf
+- ROS
+- Linux
+- Windows
+- Firefox
 --->
 
 <!---
