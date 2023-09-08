@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Alex!
 
 - 👀 Interested in Artificial Intelligence, Computer Vision, and Machine/Deep Learning.
-- 🎓 I hold a Bachelors in Engineering Physics, as well as a Masters in Computer Science from [KTH Royal Institute of Technology](https://www.kth.se/en).
+- 🎓 I hold a Bachelors in Engineering Physics, as well as a Masters in CS from [KTH Royal Institute of Technology](https://www.kth.se/en).
 - 🏠  Based in Vancouver, BC.
 
 #### 🌱 Currently learning
