@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Alex!
 I'm a new graduate with a Bachelors in Engineering Physics, and a Masters in Computer Science.
 
-- 👀 I’m interested in Artificial Intelligence, Robotics, and .
-- 🌱 I’m currently learning Rust and Javascript
+- 👀 I’m interested in Artificial Intelligence, Robotics, and Software Development.
+- 🌱 I’m currently learning Rust and Javascript!
 
 ### Languages 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
