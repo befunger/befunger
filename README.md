@@ -1,10 +1,12 @@
 ## 👋 Hi, I'm Alex!
 
-
-- 🌱 I’m currently learning Rust and brushing up on Javascript!
 - 👀 Interested in Artificial Intelligence, Computer Vision, and Machine/Deep Learning.
 - 🎓 I hold a Bachelors in Engineering Physics, as well as a Masters in Computer Science from [KTH Royal Institute of Technology](https://www.kth.se/en).
 - 🏠  Based in Vancouver, BC.
+
+#### 🌱 Currently learning
+![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📚 Languages 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -14,10 +16,10 @@
 ![matlab](https://custom-icon-badges.demolab.com/badge/MATLAB-fc4503?style=for-the-badge&logo=matlabblackandwhite&logoColor=white)
 ![latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![befunge](https://custom-icon-badges.demolab.com/badge/befunge-66a607?style=for-the-badge&logo=befunge-logo&logoColor=white)
+
 <!---
-- HTML
-- CSS
-- Javascript
+![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 --->
 
 ### 🛠️ Tools I like to use
@@ -27,6 +29,7 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10&logoColor=white)
 ![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+![unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 <!---
 - ROS
 - Firefox
