@@ -6,7 +6,7 @@ I'm a new graduate with a Bachelors in Engineering Physics, and a Masters in Com
 
 ### Languages 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![Python](https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 - Python
 - C#
 - C++
