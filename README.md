@@ -6,13 +6,14 @@ I'm a new graduate with a Bachelors in Engineering Physics, and a Masters in Com
 
 ### Languages 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![cplusplus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![labview](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)
+![matlab](https://custom-icon-badges.demolab.com/badge/MATLAB-008080?style=for-the-badge&logo=matlabblackandwhite&logoColor=white)
+![latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 <!---
-- C#
-- C++
 - MATLAB
-- LabVIEW
 - befunge98
-- LaTeX
 - HTML
 - CSS
 --->
@@ -21,7 +22,6 @@ I'm a new graduate with a Bachelors in Engineering Physics, and a Masters in Com
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 <!---
-- VSCode
 - Git
 - Overleaf
 - ROS
