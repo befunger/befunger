@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Alex!
 
-- 👀 Interested in Software Development, Computer Vision, and Machine/Deep Learning.
+- 👀 Interested in Software Development, Artificial Intelligence, and Machine/Deep Learning.
 - 🎓 I hold a Bachelors in Engineering Physics, as well as a Masters in CS from [KTH Royal Institute of Technology](https://www.kth.se/en).
 - 🏠  Based in Vancouver, BC.
 
